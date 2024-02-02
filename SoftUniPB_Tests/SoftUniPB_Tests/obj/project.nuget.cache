@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Pz78wKcvDiUme8IF7dKL5v8cX4iWUnzbRUV2d95bIp2qKeDAyJCfVJKsGPh/0uqnbUKnjcVpNW6P0RHawvZRIQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hrist\\Downloads\\VR\\HelloWorld2\\HelloWorld2\\SoftUniPB_Tests.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hrist\\.nuget\\packages\\nunit\\4.0.1\\nunit.4.0.1.nupkg.sha512",
+    "C:\\Users\\hrist\\.nuget\\packages\\nunit3testadapter\\4.5.0\\nunit3testadapter.4.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}
