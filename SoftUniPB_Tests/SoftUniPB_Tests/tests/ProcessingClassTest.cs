@@ -11,8 +11,8 @@ public class ProcessingClassTest
     private static IEnumerable<TestParam> GenerateTestParams()
     {
         var paramsList = new List<TestParam>();
-        var inputFile = new StreamReader("../tests/testInputs.txt");
-        var expectedOutputFile = new StreamReader("../tests/testExpectedResults.txt");
+        var inputFile = new StreamReader("testInputs.txt");
+        var expectedOutputFile = new StreamReader("testExpectedResults.txt");
         string line;
         int testCaseNumber = 0;
         string input = "";
